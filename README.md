@@ -5,4 +5,4 @@ Includes:
 
 - d3 force directed graph implementation to visualize relationships between news articles from Google News
 
-- Named Entity Recognition using Bidirectional Gated Recurrent Units and Vanilla Recurrent Neural Networks
+- Named Entity Recognition on the CONLL dataset using Bidirectional Gated Recurrent Units and Vanilla Recurrent Neural Networks
